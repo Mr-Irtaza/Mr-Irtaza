@@ -3,25 +3,35 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mr-irtaza&label=Profile%20views&color=0e75b6&style=flat" alt="mr-irtaza profile viwes" /> </p>
 
-- 🔭 I’m currently working React -link [Awwwards Website](https://ww.w3school.com/)
+- 🔭 I’m currently working on React Project [Awwwards Website](https://ww.w3school.com/)
 
-- 🌱 I’m currently learning **Nuxt, MogoDB**
+- 🌱 I’m currently learning **React & Tailwind CSS**
 
-- 👯 I’m looking to collaborate on -link [Next.js Project](https://ww.w3school.com/)
+<!-- - 👯 I’m looking to collaborate on -link [Next.js Project](https://ww.w3school.com/) -->
 
-- 🤝 I’m looking for help with -link [Vue Language](https://ww.w3school.com/)
+<!-- - 🤝 I’m looking for help with -link [Vue Language](https://ww.w3school.com/) -->
 
 - 👨‍💻 All of my projects are available at -Portfolio Project page [Project Page](Project Page)
 
-- 📝 I regularly write articles on -Blog Vid [Nothing](Nothing)
+<!-- - 📝 I regularly write articles on -Blog Vid [Nothing](Nothing) -->
 
 - 💬 Ask me about **React,JS,Flutter**
 
-- 📫 How to reach me -gmail **Mr.Irtaza.2005@gmail.com**
+- 📫 How to reach me **Mr.Irtaza.2005@gmail.com**
 
 - 📄 Know about my experiences -Resume Link [Resume will be uploade soon](Resume will be uploade soon)
 
-- ⚡ Fun fact **I think i am funny**
+- ⚡ Fun fact **I enjoy Learning new Skill & gaining Knowledge then Just Coding**
+
+###
+<h3 align="left">🌐 Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/irtaza7" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Mr-Irtaza's Dev.to Profile" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mr-irtaza" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mr-Irtaza's Linkedin Profile" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/29438200" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Mr-Irtaza's Stackoverflow Profile" height="30" width="40" /></a>
+<!-- <a href="https://fb.com/irtazasaeed2005" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Mr-Irtaza's Facebook Profile" height="30" width="40" /></a> -->
+<a href="https://www.youtube.com/@Irtaza-ITI" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Mr-Irtaza's YT Channel" height="30" width="40" /></a>
+</p>
 
 
 ###
@@ -94,15 +104,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg" height="30" alt="android logo"  />
 </div>
 
-###
-<h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/irtaza7" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Mr-Irtaza's Dev.to Profile" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mr-irtaza" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mr-Irtaza's Linkedin Profile" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/29438200" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Mr-Irtaza's Stackoverflow Profile" height="30" width="40" /></a>
-<a href="https://fb.com/irtazasaeed2005" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Mr-Irtaza's Facebook Profile" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucrt5ecz0kaatmnbjs-eef-a" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Mr-Irtaza's YT Channel" height="30" width="40" /></a>
-</p>
 
 <br clear="both">
 
