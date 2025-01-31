@@ -1,6 +1,8 @@
 <img src="./Image/GitHub Profile Banner.png" height ="100%" width="100%" alt="Profile Banner">
 
 #
+<details>
+  <summary align="center"><strong> Info About Me </strong> <p> (Click to View) </p></summary>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mr-irtaza&label=Profile%20Visitors&color=0e75b6&style=flat" alt="mr-irtaza profile views" /> </p>
 
 - 🔭 I’m currently working on React Project [Awwwards Website](https://ww.w3school.com/)
@@ -22,6 +24,7 @@
 - 📄 Know about my experiences -Resume Link [Resume will be uploade soon](Resume will be uploade soon)
 
 - ⚡ Fun fact **I enjoy Learning new Skill & gaining Knowledge then Just Coding**
+</details>
 
 #
 <h3 align="left">🌐 Connect with me:</h3>
@@ -84,7 +87,6 @@
 #
   <details>
   <summary><strong> More Stats </strong> <p> (click to View More) </p></summary>
-  <br>
   <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=Mr-Irtaza&theme=transparent&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mr-Irtaza&radius=16&theme=transparent&area=true&order=5&custom_title=Contribution%20Graph" height="200" alt="activity-graph graph"  />
