@@ -26,11 +26,11 @@
 ###
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/irtaza7" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Mr-Irtaza's Dev.to Profile" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mr-irtaza" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mr-Irtaza's Linkedin Profile" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/29438200" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Mr-Irtaza's Stackoverflow Profile" height="30" width="40" /></a>
-<!-- <a href="https://fb.com/irtazasaeed2005" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Mr-Irtaza's Facebook Profile" height="30" width="40" /></a> -->
-<a href="https://www.youtube.com/@Irtaza-ITI" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Mr-Irtaza's YT Channel" height="30" width="40" /></a>
+<a href="https://app.daily.dev/irtaza7"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Mr-Irtaza's Dev.to Profile" height="30" width="40" target="_blank" /></a>
+<a href="https://linkedin.com/in/mr-irtaza"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mr-Irtaza's Linkedin Profile" height="30" width="40" target="_blank" /></a>
+<a href="https://stackoverflow.com/users/29438200""><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Mr-Irtaza's Stackoverflow Profile" height="30" width="40" target="_blank" /></a>
+<!-- <a href="https://fb.com/irtazasaeed2005"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Mr-Irtaza's Facebook Profile" height="30" width="40" target="_blank"/></a> -->
+<a href="https://www.youtube.com/@Irtaza-ITI"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Mr-Irtaza's YT Channel" height="30" width="40"  target="_blank"/></a>
 </p>
 
 
