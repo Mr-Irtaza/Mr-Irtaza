@@ -1,4 +1,4 @@
-<img src="./Image/GitHub Profile Banner.png" height ="100%" width="100%" alt="Profile Banner">
+<img src="./assets/GitHub Profile Banner.png" height ="100%" width="100%" alt="Profile Banner">
 
 #
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mr-irtaza&label=Profile%20Visitors&color=0e75b6&style=flat" alt="mr-irtaza profile views" /> </p>
