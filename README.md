@@ -3,27 +3,26 @@
 #
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mr-irtaza&label=Profile%20Visitors&color=0e75b6&style=flat" alt="mr-irtaza profile views" /> </p>
 <details>
-  <summary align="center"><strong> Info About Me </strong> <p> (Click to View) </p></summary>
+  <summary align="center"><strong> About Me </strong> <p> (Click to Expand) </p></summary>
 
-- 🔭 I’m currently working on React Project [Awwwards Website](https://ww.w3school.com/)
+- 🔭 I’m currently working on Backend Project [Comming Soon](#)
+
+- 🌐 See my Portfolio [Mr-Irtaza.GitHub.io](https://mr-irtaza.github.io/)
 
 - 🌱 I’m currently learning **React & Tailwind CSS**
 
-<!-- - 👯 I’m looking to collaborate on -link [Next.js Project](https://ww.w3school.com/) -->
-
-<!-- - 🤝 I’m looking for help with -link [Vue Language](https://ww.w3school.com/) -->
-
-- 👨‍💻 All of my projects are available at -Portfolio Project page [Project Page](Project Page)
-
-<!-- - 📝 I regularly write articles on -Blog Vid [Nothing](Nothing) -->
+- 👨‍💻 All of my Projects are available at [Project Insights](https://mr-irtaza.github.io/index.html#work)
 
 - 💬 Ask me about **React,JS,Flutter**
 
-- 📫 How to reach me **Mr.Irtaza.2005@gmail.com**
+- 📫 How to reach me [Mr.Irtaza.2005@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=Mr.Irtaza.2005@gmail.com)
 
-- 📄 Know about my experiences -Resume Link [Resume will be uploade soon](Resume will be uploade soon)
+- 📄 Know about my experiences [Download Resume](https://drive.google.com/drive/folders/1OcnM0XMiRLTV_mVvBE6TUsXg9T1Olp9C?usp=sharing)
 
 - ⚡ Fun fact **I enjoy Learning new Skill & gaining Knowledge then Just Coding**
+<!-- - 👯 I’m looking to collaborate on -link [Next.js Project](https://ww.w3school.com/) -->
+<!-- - 🤝 I’m looking for help with -link [Vue Language](https://ww.w3school.com/) -->
+<!-- - 📝 I regularly write articles on -Blog Vid [Nothing](Nothing) -->
 </details>
 
 #
