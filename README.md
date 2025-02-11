@@ -5,7 +5,7 @@
 <details>
   <summary align="center"><strong> About Me </strong> <p> (Click to Expand) </p></summary>
 
-- 🔭 I’m currently working on Backend Project [Coming Soon](#)
+<!-- - 🔭 I’m currently working on Backend Project [Coming Soon](#) -->
 
 - 🌐 See my Portfolio [Mr-Irtaza.GitHub.io](https://mr-irtaza.github.io/)
 
