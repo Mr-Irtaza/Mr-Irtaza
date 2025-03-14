@@ -9,7 +9,7 @@
 
 - 🌐 See my Portfolio [Mr-Irtaza.GitHub.io](https://mr-irtaza.github.io/)
 
-- 🌱 I’m currently learning **React & Tailwind CSS**
+- 🌱 I’m currently learning **Flutter & Tailwind CSS**
 
 - 👨‍💻 All of my Projects are available at [Project Insights](https://mr-irtaza.github.io/index.html#work)
 
@@ -35,6 +35,114 @@
 <a href="https://www.youtube.com/@Irtaza-ITI/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Mr-Irtaza's YT Channel" height="30" width="40" /></a>
 </p>
 <!-- <a href="https://fb.com/Mr-Irtaza"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Mr-Irtaza's Facebook Profile" height="30" width="40" target="_blank"/></a> -->
+
+<details>
+  <summary align="center"><strong> My Skillset </strong> <p> (Click to Expand) </p></summary>
+
+    🔹 Programming Languages
+JavaScript (ES6+)
+
+HTML5 / CSS3
+
+C++
+
+Dart
+
+PHP (Basic to Intermediate)
+
+SQL (MySQL)
+
+JSON
+
+JSX (React)
+
+    🔹 Frameworks & Libraries
+React.js
+
+Express.js
+
+Node.js
+
+jQuery
+
+Bootstrap 4/5
+
+Tailwind CSS
+
+Laravel (Basic)
+
+Flutter (Basic to Intermediate)
+
+    🔹 Databases
+MongoDB (with MongoDB Compass)
+
+MySQL
+
+Firebase (Basic)
+
+    🔹 Tools & Platforms
+Git / GitHub
+
+WordPress (with Elementor and other plugins)
+
+VS Code
+
+XAMPP / phpMyAdmin
+
+Figma (UI/UX Design)
+
+Adobe XD (UI/UX Design)
+
+Canva (Design & Templates)
+
+    🔹 Soft Skills & Techniques
+Problem Solving
+
+Research & Googling Skills
+
+Self-Learning (Online Courses, YouTube, etc.)
+
+Typing Speed & Accuracy
+
+Team Collaboration (Basic)
+
+Teaching & Presentation Skills
+
+    🔹 Dev & Deployment
+RESTful API Integration
+
+CRUD Operations
+
+MVC Architecture (Laravel & Node)
+
+Responsive Web Design
+
+Web Hosting & Domain Setup (Free & Paid)
+
+Version Control with Git
+
+NPM / Yarn
+
+Postman (API Testing)
+
+    🔹 CMS & Website Building
+WordPress
+
+WooCommerce (Basic)
+
+Elementor
+
+Theme Customization
+
+Local Server Development with XAMPP
+
+    🔹 Other Tech/General Tools
+Microsoft Office (Word, PowerPoint, Excel)
+
+Google Workspace (Docs, Sheets, Forms, etc.)
+
+Zoom, Google Meet, MS Teams
+</details>
 
 #
 <h2>💻 Languages and Tools</h2>
